@@ -5,7 +5,7 @@ export const projects = [
         description:
         "We are importing an array of projects from a data.js file in the same folder. There we are exporting an array of objects which each include an individual project's data:",
         image:"./asignuppage.png",
-        link:"../ex1/",
+        link:"https://www.prachipweb.co.in",
     },
      {
         title: "Sign Up check",

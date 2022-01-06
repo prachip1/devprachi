@@ -27,7 +27,7 @@ export default function Navbar() {
           <a href="#projects" className="mr-5 text-pink-light hover:text-pink-dark">
             Past Work
           </a>
-          <a href="https://github.com/prachip1" className="mr-5 text-pink-light hover:text-pink-dark">
+          <a href="https://www.prachipweb.co.in" className="mr-5 text-pink-light hover:text-pink-dark">
             Git Profile
           </a>
           
