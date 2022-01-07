@@ -1,6 +1,5 @@
 import React from "react";
 import About from "./components/About";
-import Contact from "./components/Contact";
 import Navnew from "./components/Navnew";
 import Projects from "./components/Projects";
 
@@ -12,7 +11,7 @@ export default function App(){
       <Navnew />
       <About />
       <Projects />
-      <Contact />
+     {/* <Contact />*/}
     </main>
   );
 }
