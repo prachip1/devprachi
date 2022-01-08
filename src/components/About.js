@@ -15,7 +15,7 @@ export default function About() {
        </div>
                <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
            <h3 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white font-sans">
-           Hello, I am Prachi Priydarshini and this is my
+           Hello, I am Prachi Priydarshini and this is my my
           </h3>
          <h1 className="text-5xl lg:inline-block text-black-dark md-tracking-widest bg-gradient-to-r from-pink-dark via-green-light via-blue-dark to-blue-light">DEVELOPER PORTFOLIO</h1>
          

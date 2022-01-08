@@ -2,6 +2,7 @@ import React from "react";
 import About from "./components/About";
 import Navnew from "./components/Navnew";
 import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 
 
@@ -11,7 +12,7 @@ export default function App(){
       <Navnew />
       <About />
       <Projects />
-     {/* <Contact />*/}
+     <Contact />
     </main>
   );
 }
