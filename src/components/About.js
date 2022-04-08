@@ -17,7 +17,7 @@ export default function About() {
            <h3 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white font-sans">
            Hello, I am Prachi Priydarshini and this is my my
           </h3>
-         <h1 className="text-5xl lg:inline-block text-black-dark md-tracking-widest bg-gradient-to-r from-pink-dark via-green-light via-blue-dark to-blue-light">DEVELOPER PORTFOLIO</h1>
+         <h1 className="text-5xl lg:inline-block text-black-dark md-tracking-widest bg-gradient-to-r from-pink-dark  via-blue-dark to-blue-light text-transparent bg-clip-text">DEVELOPER PORTFOLIO</h1>
          
          <h4 className="text-blue-light my-4 text-xl">UI developer | UX designer</h4>
          <p className="mb-8 leading-relaxed text-lg">
